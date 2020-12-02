@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from '../Navbar/Navbar'
 import Hero from '../Hero/Hero'
+import About from '../About/About'
 
 function App() {
     return (
@@ -8,8 +9,8 @@ function App() {
 
             <Navbar />
             <Hero />
+            <About />
             {/*
-                <About />
                 <PortfolioList />
                 <SkillList />
                 <Footer /> */

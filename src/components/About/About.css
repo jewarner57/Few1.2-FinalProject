@@ -1,0 +1,22 @@
+.aboutMeSection {
+  width: 100%;
+  padding: 20px;
+  font-size: 1.2em;
+  background-color: white;
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.aboutMeDesc {
+  width: 500px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+.About {
+    text-align: left;
+}
