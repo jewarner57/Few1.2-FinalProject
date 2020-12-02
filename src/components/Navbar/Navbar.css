@@ -1,0 +1,71 @@
+.navbar {
+  background-color: #fff;
+  height: 20px;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+
+.navbarOpaque {
+  animation-name: navBarAppear;
+  animation-duration: 0.3s;
+  opacity: 1;
+}
+
+.navbarTranslucent {
+  animation-name: navBarHide;
+  animation-duration: 0.3s;
+  opacity: 0;
+}
+
+.navbarStart {
+  animation-name: navBarHide;
+  animation-duration: 0s;
+  opacity: 0;
+}
+
+@keyframes navBarAppear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes navBarHide {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.navTitle {
+  float: left;
+  margin-left: 40px;
+  font-weight: bold;
+}
+.navItems {
+  display: flex;
+  float: right;
+  margin-right: 30px;
+}
+.navButton {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbarContainer {
+  position: fixed;
+  z-index: 3;
+  width: 100%;
+  padding-top: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
