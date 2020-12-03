@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Few1.2-FinalProject/static/css/main.d61a30a3.chunk.css",
-    "main.js": "/Few1.2-FinalProject/static/js/main.e274aaf3.chunk.js",
-    "main.js.map": "/Few1.2-FinalProject/static/js/main.e274aaf3.chunk.js.map",
-    "runtime-main.js": "/Few1.2-FinalProject/static/js/runtime-main.65b82770.js",
-    "runtime-main.js.map": "/Few1.2-FinalProject/static/js/runtime-main.65b82770.js.map",
-    "static/js/2.167676a0.chunk.js": "/Few1.2-FinalProject/static/js/2.167676a0.chunk.js",
-    "static/js/2.167676a0.chunk.js.map": "/Few1.2-FinalProject/static/js/2.167676a0.chunk.js.map",
-    "static/js/3.d30fb755.chunk.js": "/Few1.2-FinalProject/static/js/3.d30fb755.chunk.js",
-    "static/js/3.d30fb755.chunk.js.map": "/Few1.2-FinalProject/static/js/3.d30fb755.chunk.js.map",
+    "main.css": "/Few1.2-FinalProject/static/css/main.95d10e1d.chunk.css",
+    "main.js": "/Few1.2-FinalProject/static/js/main.1ba9002c.chunk.js",
+    "main.js.map": "/Few1.2-FinalProject/static/js/main.1ba9002c.chunk.js.map",
+    "runtime-main.js": "/Few1.2-FinalProject/static/js/runtime-main.245a46b7.js",
+    "runtime-main.js.map": "/Few1.2-FinalProject/static/js/runtime-main.245a46b7.js.map",
+    "static/js/2.d9cd5a09.chunk.js": "/Few1.2-FinalProject/static/js/2.d9cd5a09.chunk.js",
+    "static/js/2.d9cd5a09.chunk.js.map": "/Few1.2-FinalProject/static/js/2.d9cd5a09.chunk.js.map",
+    "static/js/3.7bbedc09.chunk.js": "/Few1.2-FinalProject/static/js/3.7bbedc09.chunk.js",
+    "static/js/3.7bbedc09.chunk.js.map": "/Few1.2-FinalProject/static/js/3.7bbedc09.chunk.js.map",
     "index.html": "/Few1.2-FinalProject/index.html",
-    "static/css/main.d61a30a3.chunk.css.map": "/Few1.2-FinalProject/static/css/main.d61a30a3.chunk.css.map",
-    "static/js/2.167676a0.chunk.js.LICENSE.txt": "/Few1.2-FinalProject/static/js/2.167676a0.chunk.js.LICENSE.txt",
+    "static/css/main.95d10e1d.chunk.css.map": "/Few1.2-FinalProject/static/css/main.95d10e1d.chunk.css.map",
+    "static/js/2.d9cd5a09.chunk.js.LICENSE.txt": "/Few1.2-FinalProject/static/js/2.d9cd5a09.chunk.js.LICENSE.txt",
     "static/media/Hero.css": "/Few1.2-FinalProject/static/media/header-min.5c539d8b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65b82770.js",
-    "static/js/2.167676a0.chunk.js",
-    "static/css/main.d61a30a3.chunk.css",
-    "static/js/main.e274aaf3.chunk.js"
+    "static/js/runtime-main.245a46b7.js",
+    "static/js/2.d9cd5a09.chunk.js",
+    "static/css/main.95d10e1d.chunk.css",
+    "static/js/main.1ba9002c.chunk.js"
   ]
 }
