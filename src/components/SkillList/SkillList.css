@@ -1,0 +1,38 @@
+
+.skillsSection {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.sectionTitle {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.skillsOuterWrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skillsInnerWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.skillItem {
+  margin: 30px 80px 30px 80px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}

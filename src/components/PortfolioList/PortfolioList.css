@@ -1,0 +1,89 @@
+.portfolioItemSmallText {
+  font-size: 10px;
+}
+
+.portfolioSection {
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px;
+  width: 100%;
+  background-color: #f2f2f2;
+}
+
+.portfolioItem {
+  width: 250px;
+  height: 200px;
+  margin: 15px;
+}
+
+.portfolioItemContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.portfolioItem img {
+  width: 250px;
+  height: 200px;
+}
+
+.hoverDiv {
+  width: 190px;
+  height: 140px;
+  overflow: hidden;
+  display: inline;
+  position: absolute;
+  background-color: white;
+  z-index: 2;
+  margin-left: -240px;
+  margin-top: 10px;
+  text-align: center;
+  transform: scale(0);
+  padding: 20px;
+}
+
+.hoverDivExpand {
+  transform: scale(1);
+  transition-duration: 0.5s;
+}
+
+.hoverDivRetract {
+  transform: scale(0);
+  transition-duration: 0.5s;
+}
+
+.githubLink {
+  color: black;
+  text-decoration: underline;
+
+  animation-name: linkColorFlash;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+
+.githubLinkText {
+  padding-bottom: 20px;
+  font-size: 1.5em;
+  color: black;
+  text-align: center;
+}
+
+@keyframes linkColorFlash {
+  0% {
+    color: black;
+  }
+  20% {
+    color: red;
+  }
+  30% {
+    color: orange;
+  }
+  40% {
+    color: green;
+  }
+  50% {
+    color: blue;
+  }
+  60% {
+    color: black;
+  }
+}

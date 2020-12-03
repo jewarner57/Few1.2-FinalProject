@@ -2,6 +2,9 @@ import './App.css';
 import Navbar from '../Navbar/Navbar'
 import Hero from '../Hero/Hero'
 import About from '../About/About'
+import PortfolioList from '../PortfolioList/PortfolioList'
+import SkillList from '../SkillList/SkillList'
+import Footer from '../Footer/Footer'
 
 function App() {
     return (
@@ -10,11 +13,9 @@ function App() {
             <Navbar />
             <Hero />
             <About />
-            {/*
-                <PortfolioList />
-                <SkillList />
-                <Footer /> */
-            }
+            <PortfolioList />
+            <SkillList />
+            <Footer />
 
 
         </div>
