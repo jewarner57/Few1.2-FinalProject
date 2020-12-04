@@ -38,16 +38,16 @@
   20% {
     color: red;
   }
-  30% {
+  40% {
     color: orange;
   }
-  40% {
+  60% {
     color: green;
   }
-  50% {
+  80% {
     color: blue;
   }
-  60% {
+  100% {
     color: black;
   }
 }

@@ -12,7 +12,7 @@
   width: 500px;
 }
 
-a {
+.aboutMeDesc > p > a {
     color: black;
     text-decoration: underline;
 }

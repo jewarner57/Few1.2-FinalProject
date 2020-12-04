@@ -33,3 +33,7 @@
   transform: scale(0);
   transition-duration: 0.5s;
 }
+
+.PortfolioItem > a {
+    color: black;
+}

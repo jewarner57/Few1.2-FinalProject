@@ -43,6 +43,14 @@
   }
 }
 
+.navTextDark, .navTextDark > a {
+    color:rgb(22, 22, 22);
+}
+
+.navTextLight, .navTextLight > a {
+    color: white;
+}
+
 .navTitle {
   float: left;
   margin-left: 40px;
@@ -56,6 +64,7 @@
 .navButton {
   margin-left: 20px;
   margin-right: 20px;
+  font-weight: bold;
 }
 
 .navbarContainer {
@@ -67,5 +76,5 @@
 }
 .navItems > a, .navTitle {
   text-decoration: none;
-  color: #fff;
 }
+

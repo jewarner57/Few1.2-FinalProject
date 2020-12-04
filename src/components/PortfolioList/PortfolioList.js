@@ -8,15 +8,15 @@ class PortfolioList extends Component {
 
         return (
             <div className="PortfolioList">
-                <div class="portfolioSection" id="portfolioSection">
+                <div className="portfolioSection" id="portfolioSection">
 
-                    <h1 class="sectionTitle">My Work</h1>
+                    <h1 className="sectionTitle">My Work</h1>
 
-                    <div class="githubLinkText">
-                        Check out my <a href="https://github.com/jewarner57" class="githubLink" target="_blank" rel="noreferrer">Github</a>
+                    <div className="githubLinkText">
+                        Check out my <a href="https://github.com/jewarner57" className="githubLink" target="_blank" rel="noreferrer">Github</a>
                     </div>
 
-                    <div class="portfolioItemContainer">
+                    <div className="portfolioItemContainer">
 
                         {/* Map through each portfolio item */}
                         {portfolioData.map((item, i) => {

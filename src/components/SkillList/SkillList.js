@@ -1,5 +1,7 @@
 import { Component } from 'react'
 import './SkillList.css'
+import SkillItem from '../SkillItem/SkillItem'
+import skillsData from '../../skills-data.json'
 
 
 class SkillList extends Component {
@@ -8,16 +10,28 @@ class SkillList extends Component {
 
         return (
             <div className="SkillList">
-                <div class="skillsSection">
-                    <div class="sectionTitle">
+                <div className="skillsSection">
+                    <div className="sectionTitle">
                         <div>
-                            <h1 class="sectionTitle" id="skillsSection">My Skills</h1>
+                            <h1 className="sectionTitle" id="skillsSection">My Skills</h1>
                         </div>
                     </div>
-                    <div class="skillsOuterWrapper">
-                        <div class="skillsInnerWrapper">
+                    <div className="skillsOuterWrapper">
+                        <div className="skillsInnerWrapper">
 
-                            {/* Map through skills here */}
+                            {/* Map through each skill*/}
+                            {skillsData.map((skill, i) => {
+                                const { name, image, imageAlt } = skill
+                                return (
+                                    <SkillItem
+                                        id={i}
+                                        key={name}
+                                        name={name}
+                                        image={image}
+                                        imageAlt={imageAlt}
+                                    />
+                                )
+                            })}
 
                         </div>
                     </div>

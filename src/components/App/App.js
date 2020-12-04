@@ -1,24 +1,22 @@
 import './App.css';
+import { HashRouter as Router, Route } from 'react-router-dom'
 import Navbar from '../Navbar/Navbar'
-import Hero from '../Hero/Hero'
-import About from '../About/About'
-import PortfolioList from '../PortfolioList/PortfolioList'
-import SkillList from '../SkillList/SkillList'
+import Home from '../../pages/Home/Home'
+import PortfolioDetail from '../../pages/PortfolioDetail/PortfolioDetail'
 import Footer from '../Footer/Footer'
 
 function App() {
     return (
-        <div className="App">
+        <Router>
+            <div className="App">
+                <Navbar />
 
-            <Navbar />
-            <Hero />
-            <About />
-            <PortfolioList />
-            <SkillList />
-            <Footer />
+                <Route exact path="/" component={Home} />
+                <Route path="/portfolio-detail/:id" component={PortfolioDetail} />
 
-
-        </div>
+                <Footer />
+            </div>
+        </Router>
     );
 }
 

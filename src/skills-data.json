@@ -1,1 +1,12 @@
-{}
+[
+    {
+        "name": "HTML5",
+        "image": "html5.png",
+        "imageAlt": "HTML5 Logo"
+    },
+    {
+        "name": "CSS",
+        "image": "css.png",
+        "imageAlt": "CSS Logo"
+    }
+]

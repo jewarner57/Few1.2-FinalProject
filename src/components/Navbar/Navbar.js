@@ -7,33 +7,58 @@ class Navbar extends Component {
         super(props)
 
         this.state = ({
-            scrollPosition: window.pageYOffset
+            navbarMode: "navbarStart",
+            navbarTextMode: "navTextLight"
         });
+    }
+
+    listenScrollEvent = () => {
+        let navbarMode = this.state.navbarMode
+        let navbarTextMode = this.state.navbarTextMode
+
+        if (window.scrollY > 100 && navbarMode !== "navbarOpaque") {
+            navbarMode = "navbarOpaque"
+            navbarTextMode = "navTextDark"
+        }
+        else if (window.scrollY <= 100 && navbarMode !== "navbarTranslucent") {
+            navbarMode = "navbarTranslucent"
+            navbarTextMode = "navTextLight"
+        }
+
+        this.setState({ navbarMode: navbarMode, navbarTextMode: navbarTextMode })
+    }
+
+    componentDidMount() {
+        window.addEventListener('scroll', this.listenScrollEvent)
+    }
+
+    componentWillUnmount() {
+        window.removeEventListener('scroll', this.listenScrollEvent)
     }
 
     render() {
 
 
         return (
-            <div className="Navbar" >
-                <div class="navbar navbarStart"></div>
-                <div class="navbarContainer">
-                    <a href="#pageTop" class="navLink">
-                        <div class="navTitle">Jonathan Warner</div>
+            <div className="Navbar">
+                <div className={"navbar " + this.state.navbarMode}></div>
+                <div className="navbarContainer">
+                    <a href="#pageTop" className="navLink">
+                        <div className={"navTitle " + this.state.navbarTextMode}>Jonathan Warner</div>
                     </a>
 
-                    <div class="navItems">
-                        <a href="#pageTop" class="navLink">
-                            <div class="navButton">Home</div>
+                    <div className={"navItems " + this.state.navbarTextMode}>
+                        <a href="#pageTop" className="navLink">
+                            <div className="navButton">Home</div>
                         </a>
-                        <a href="#aboutMeSection" class="navLink">
-                            <div class="navButton">About</div>
+                        <a href="#aboutMeSection" className="navLink">
+                            <div className="navButton">About</div>
                         </a>
-                        <a href="#skillsSection" class="navLink">
-                            <div class="navButton">Skills</div>
+                        <a href="#skillsSection" className="navLink">
+                            <div className="navButton">Skills</div>
                         </a>
-                        <a href="#portfolioSection" class="navLink">
-                            <div class="navButton">Work</div>
+                        <a href="#portfolioSection" className="navLink">
+                            <div className="navButton">Work</div>
                         </a>
                     </div>
                 </div>
