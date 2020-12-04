@@ -1,0 +1,12 @@
+[
+    {
+        "name": "3d Printing",
+        "projectType": "Website",
+        "link": "http://www.tsa3dprinting.com",
+        "image": "tsa3dprinting.PNG",
+        "imageAlt": "Image of a 3d printer",
+        "description": "A project created for a high school technology competition on 3d printers",
+        "datePublished": "April, 2014",
+        "Technologies": "HTML, CSS, JS"
+    }
+]
