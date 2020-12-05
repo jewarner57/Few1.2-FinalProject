@@ -21,6 +21,18 @@
   z-index: 1;
 }
 
+#iamList {
+  animation-name: textFade;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes textFade {
+  0% {opacity: 0;}
+  50% {opacity: 1;}
+  100% {opacity: 0;}
+}
+
 @media only screen and (max-width: 1100px){
   .headerTitle h1 {
     font-size: 1.5em;
