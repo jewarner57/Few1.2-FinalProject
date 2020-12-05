@@ -1,6 +1,21 @@
-.footer {
+.Footer {
   text-align: center;
   background-color: #f2f2f2;
   font-family: 'Open Sans', sans-serif;
   padding: 10px 0px;
+  flex-shrink: 0;
+}
+
+/* Styles for forcing the footer to the bottom of the page */
+html, body, .App, #root {
+  height: 100%;
+}
+
+body, .App, #root {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1 0 auto;
 }

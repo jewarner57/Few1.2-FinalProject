@@ -1,14 +1,26 @@
 import { Component } from 'react'
 import './Navbar.css'
+import { HashLink } from 'react-router-hash-link'
 
 
 class Navbar extends Component {
     constructor(props) {
         super(props)
 
+        let navbarMode = "navbarStart"
+        let navbarTextMode = "navTextLight"
+        let changeOnScroll = true
+
+        if (this.props.type === "solid") {
+            navbarMode = "navbarOpaque"
+            navbarTextMode = "navTextDark"
+            changeOnScroll = false
+        }
+
         this.state = ({
-            navbarMode: "navbarStart",
-            navbarTextMode: "navTextLight"
+            navbarMode: navbarMode,
+            navbarTextMode: navbarTextMode,
+            changeOnScroll: changeOnScroll
         });
     }
 
@@ -25,7 +37,8 @@ class Navbar extends Component {
             navbarTextMode = "navTextLight"
         }
 
-        this.setState({ navbarMode: navbarMode, navbarTextMode: navbarTextMode })
+        if (this.state.changeOnScroll === true)
+            this.setState({ navbarMode: navbarMode, navbarTextMode: navbarTextMode })
     }
 
     componentDidMount() {
@@ -43,23 +56,23 @@ class Navbar extends Component {
             <div className="Navbar">
                 <div className={"navbar " + this.state.navbarMode}></div>
                 <div className="navbarContainer">
-                    <a href="#pageTop" className="navLink">
+                    <HashLink smooth to="/#pagetop" className="navLink">
                         <div className={"navTitle " + this.state.navbarTextMode}>Jonathan Warner</div>
-                    </a>
+                    </HashLink>
 
                     <div className={"navItems " + this.state.navbarTextMode}>
-                        <a href="#pageTop" className="navLink">
+                        <HashLink smooth to="/#pagetop" className="navLink">
                             <div className="navButton">Home</div>
-                        </a>
-                        <a href="#aboutMeSection" className="navLink">
+                        </HashLink>
+                        <HashLink smooth to="/#aboutMeSection" className="navLink">
                             <div className="navButton">About</div>
-                        </a>
-                        <a href="#skillsSection" className="navLink">
-                            <div className="navButton">Skills</div>
-                        </a>
-                        <a href="#portfolioSection" className="navLink">
+                        </HashLink>
+                        <HashLink smooth to="/#portfolioSection" className="navLink">
                             <div className="navButton">Work</div>
-                        </a>
+                        </HashLink>
+                        <HashLink smooth to="/#skillsSection" className="navLink">
+                            <div className="navButton">Skills</div>
+                        </HashLink>
                     </div>
                 </div>
             </div>
