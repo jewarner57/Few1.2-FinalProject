@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Few1.2-FinalProject/static/css/main.33dfa3a6.chunk.css",
-    "main.js": "/Few1.2-FinalProject/static/js/main.8c9a1bac.chunk.js",
-    "main.js.map": "/Few1.2-FinalProject/static/js/main.8c9a1bac.chunk.js.map",
-    "runtime-main.js": "/Few1.2-FinalProject/static/js/runtime-main.692cdaec.js",
-    "runtime-main.js.map": "/Few1.2-FinalProject/static/js/runtime-main.692cdaec.js.map",
-    "static/js/2.20ed0560.chunk.js": "/Few1.2-FinalProject/static/js/2.20ed0560.chunk.js",
-    "static/js/2.20ed0560.chunk.js.map": "/Few1.2-FinalProject/static/js/2.20ed0560.chunk.js.map",
-    "static/js/3.6edc3d4d.chunk.js": "/Few1.2-FinalProject/static/js/3.6edc3d4d.chunk.js",
-    "static/js/3.6edc3d4d.chunk.js.map": "/Few1.2-FinalProject/static/js/3.6edc3d4d.chunk.js.map",
+    "main.css": "/Few1.2-FinalProject/static/css/main.fbd53a29.chunk.css",
+    "main.js": "/Few1.2-FinalProject/static/js/main.ebe911d8.chunk.js",
+    "main.js.map": "/Few1.2-FinalProject/static/js/main.ebe911d8.chunk.js.map",
+    "runtime-main.js": "/Few1.2-FinalProject/static/js/runtime-main.d8bdb00b.js",
+    "runtime-main.js.map": "/Few1.2-FinalProject/static/js/runtime-main.d8bdb00b.js.map",
+    "static/js/2.be9c80aa.chunk.js": "/Few1.2-FinalProject/static/js/2.be9c80aa.chunk.js",
+    "static/js/2.be9c80aa.chunk.js.map": "/Few1.2-FinalProject/static/js/2.be9c80aa.chunk.js.map",
+    "static/js/3.856bc56e.chunk.js": "/Few1.2-FinalProject/static/js/3.856bc56e.chunk.js",
+    "static/js/3.856bc56e.chunk.js.map": "/Few1.2-FinalProject/static/js/3.856bc56e.chunk.js.map",
     "index.html": "/Few1.2-FinalProject/index.html",
-    "static/css/main.33dfa3a6.chunk.css.map": "/Few1.2-FinalProject/static/css/main.33dfa3a6.chunk.css.map",
-    "static/js/2.20ed0560.chunk.js.LICENSE.txt": "/Few1.2-FinalProject/static/js/2.20ed0560.chunk.js.LICENSE.txt",
+    "static/css/main.fbd53a29.chunk.css.map": "/Few1.2-FinalProject/static/css/main.fbd53a29.chunk.css.map",
+    "static/js/2.be9c80aa.chunk.js.LICENSE.txt": "/Few1.2-FinalProject/static/js/2.be9c80aa.chunk.js.LICENSE.txt",
     "static/media/balloonart.png": "/Few1.2-FinalProject/static/media/balloonart.c8a1edfb.png",
     "static/media/csrichart.PNG": "/Few1.2-FinalProject/static/media/csrichart.fc21d245.PNG",
     "static/media/css.png": "/Few1.2-FinalProject/static/media/css.317be01b.png",
@@ -32,9 +32,9 @@
     "static/media/wordpress.png": "/Few1.2-FinalProject/static/media/wordpress.f24b4f56.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.692cdaec.js",
-    "static/js/2.20ed0560.chunk.js",
-    "static/css/main.33dfa3a6.chunk.css",
-    "static/js/main.8c9a1bac.chunk.js"
+    "static/js/runtime-main.d8bdb00b.js",
+    "static/js/2.be9c80aa.chunk.js",
+    "static/css/main.fbd53a29.chunk.css",
+    "static/js/main.ebe911d8.chunk.js"
   ]
 }
