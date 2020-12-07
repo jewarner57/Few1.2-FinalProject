@@ -4,11 +4,23 @@
         "longname": "3d Printers and Additive Manufacturing",
         "projectType": "Website",
         "link": "http://www.tsa3dprinting.com",
-        "githubrepo": "",
+        "githubrepo": "https://github.com/jewarner57/tsa3dprinting",
         "image": "tsa3dprinting.PNG",
         "imageAlt": "A 3d printer printing an orange rocket ship",
         "description": "This project was created for a middle school technology student association competition on website design and the history of 3d printers",
         "datePublished": "April, 2014",
         "technologies": "HTML, CSS, JS"
+    },
+    {
+        "name": "Lawn Mower Man Mobile",
+        "longname": "Lawn Mower Man Mobile",
+        "projectType": "IOS App",
+        "link": "https://lawnmowermanmobile.wordpress.com/",
+        "githubrepo": "https://github.com/jewarner57/Lawn-Mower-Man-IOS-",
+        "image": "lawnmowermanmobile.png",
+        "imageAlt": "A man riding a lawn mower",
+        "description": "Created over winter break from a friends goofy idea, lawn mower man is an idle game where the player mows lawns for money to upgrade their mower. Lawn mower man gained a cult following during it's time on Apple's app store. Unfortunately the app is no longer avaliable.",
+        "datePublished": "December, 2017",
+        "technologies": "Swift 3"
     }
 ]
