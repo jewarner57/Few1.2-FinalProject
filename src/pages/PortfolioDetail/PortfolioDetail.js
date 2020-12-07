@@ -4,22 +4,30 @@ import Navbar from '../../components/Navbar/Navbar'
 
 function PortfolioDetail(props) {
     const { id } = props.match.params
-    const { name, projectType, link, image, imageAlt, technologies, description, githubrepo, datePublished
+    const { longname, projectType, link, image, imageAlt, technologies, description, githubrepo, datePublished
     } = portfolioData[id]
 
     return (
         <div className="PortfolioDetail">
             <Navbar type="solid" />
             <div className="PortfolioItemDetails">
-                <h1>{name}</h1>
-                <h1>{projectType}</h1>
-                <h1>{technologies}</h1>
-                <p>{description}</p>
-                <p>Data Published: {datePublished}</p>
-                <a href={githubrepo}>github</a>
-                <a href={link}>visit</a>
-                <div>
-                    <img src={require('../../assets/portfolio/' + image).default} alt={imageAlt} />
+                <div className="portfolioDetailWrapper">
+                    <div className="detailImage">
+                        <img src={require('../../assets/portfolio/' + image).default} alt={imageAlt} />
+                    </div>
+                    <div className="detailInfo">
+                        <h1>{longname}</h1>
+                        <hr />
+                        <p>Project Type: {projectType}</p>
+                        <p>Technologies Used: {technologies}</p>
+                        <p>Data Published: {datePublished}</p>
+                        <hr />
+                        <p>{description}</p>
+                        <div className="detailButtons">
+                            <a href={githubrepo}><div className="button hoverfill">View Project On Github</div></a>
+                            <a href={link}><div className="button hoverfill">View Live Project Page</div></a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

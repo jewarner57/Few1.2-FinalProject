@@ -1,12 +1,13 @@
 [
     {
         "name": "3d Printing",
+        "longname": "3d Printers and Additive Manufacturing",
         "projectType": "Website",
         "link": "http://www.tsa3dprinting.com",
         "githubrepo": "",
         "image": "tsa3dprinting.PNG",
         "imageAlt": "A 3d printer printing an orange rocket ship",
-        "description": "A project created for a high school technology competition on 3d printers",
+        "description": "This project was created for a middle school technology student association competition on website design and the history of 3d printers",
         "datePublished": "April, 2014",
         "technologies": "HTML, CSS, JS"
     }

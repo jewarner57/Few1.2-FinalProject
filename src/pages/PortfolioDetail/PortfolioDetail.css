@@ -1,3 +1,74 @@
 .PortfolioItemDetails {
     padding-top: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.portfolioDetailWrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 90%;
+}
+
+.detailImage > img {
+    max-width: 100%;
+}
+
+.detailImage {
+    margin-top: 20px;
+    max-width: 50%;
+}
+
+.detailInfo {
+    font-size: 18px;
+    margin: 20px 0;
+    max-width: 45%;
+    text-align: left;
+}
+
+.detailInfo > h1 {
+    margin-top: 0;
+}
+
+.button {
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    margin-top:10px;
+    color: rgb(41, 41, 41);
+    border: 2px solid rgb(41, 41, 41);
+    text-decoration: none;
+}
+
+.hoverfill {
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+}
+.hoverfill:hover {
+    box-shadow: 0 0 41px 41px inset rgb(47, 47, 47);
+    border: none;
+    color: white;
+    padding: 12px;
+}
+
+.detailButtons {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+@media only screen and (max-width: 900px){
+  .portfolioDetailWrapper {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .detailImage {
+      max-width: 90%;
+  }
+
+  .detailInfo {
+      max-width: 90%;
+  }
 }
