@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hobbit Meal Planner",
+        "longname": "A Hobbit's Meal Planner",
+        "projectType": "Web App",
+        "link": "https://whataboutsecondbreakfast.herokuapp.com/",
+        "githubrepo": "https://github.com/jewarner57/Hobbit-Meal-Planner",
+        "image": "whataboutsecondbreakfast.png",
+        "imageAlt": "A screenshot of the hobbit meal planner website",
+        "description": "What about second breakfast? With this app you can build your 7 meal feast using a customizeable meal plan creator.",
+        "datePublished": "December, 2020",
+        "technologies": "Flask, Python, HTML, CSS, Bootstrap"
+    },
+    {
         "name": "MakeOverflow",
         "longname": "MakeOverflow",
         "projectType": "Web App",
@@ -7,9 +19,9 @@
         "githubrepo": "https://github.com/jewarner57/MakeOverflow",
         "image": "makeoverflow.png",
         "imageAlt": "A screenshot of the makeoverflow.com website",
-        "description": "This web app was created as a final project for my WEB 1.1 course. MakeOverflow is a Stack Overflow clone designed specifically for MakeSchool students.",
+        "description": "MakeOverflow is a Stack Overflow clone designed specifically for MakeSchool students.",
         "datePublished": "October, 2020",
-        "technologies": "Flask, Python, HTML, CSS, Javascript"
+        "technologies": "Flask, Python, HTML, CSS, Bootstrap, Javascript"
     },
     {
         "name": "Doughversity",
@@ -19,7 +31,7 @@
         "githubrepo": "https://github.com/jewarner57/doughversity",
         "image": "doughversity.png",
         "imageAlt": "A screenshot of the doughversity.com website",
-        "description": "This web app was created as a final project for SPD 1.1. The app is currently a prototype so no purchases can actually be made. All of the necessary functionality is in place so that it could otherwise function. Feel free to create an account and mess around. Check out my write up of the website here: rb.gy/ttlkrz",
+        "description": "Doughversity was designed as a platform to allow local bakeries to sell their goods online direct to consumers. This app is currently a prototype so no purchases can actually be made. However, all of the necessary functionality is in place so that it otherwise functions. Feel free to create an account and mess around. Check out my write up of the website here: rb.gy/ttlkrz",
         "datePublished": "October, 2020",
         "technologies": "Flask, Python, HTML, CSS, Javascript"
     },
