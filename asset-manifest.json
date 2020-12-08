@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Few1.2-FinalProject/static/css/main.fbd53a29.chunk.css",
-    "main.js": "/Few1.2-FinalProject/static/js/main.0df969c1.chunk.js",
-    "main.js.map": "/Few1.2-FinalProject/static/js/main.0df969c1.chunk.js.map",
-    "runtime-main.js": "/Few1.2-FinalProject/static/js/runtime-main.d8bdb00b.js",
-    "runtime-main.js.map": "/Few1.2-FinalProject/static/js/runtime-main.d8bdb00b.js.map",
-    "static/js/2.be9c80aa.chunk.js": "/Few1.2-FinalProject/static/js/2.be9c80aa.chunk.js",
-    "static/js/2.be9c80aa.chunk.js.map": "/Few1.2-FinalProject/static/js/2.be9c80aa.chunk.js.map",
-    "static/js/3.856bc56e.chunk.js": "/Few1.2-FinalProject/static/js/3.856bc56e.chunk.js",
-    "static/js/3.856bc56e.chunk.js.map": "/Few1.2-FinalProject/static/js/3.856bc56e.chunk.js.map",
+    "main.css": "/Few1.2-FinalProject/static/css/main.99102837.chunk.css",
+    "main.js": "/Few1.2-FinalProject/static/js/main.1088c6a0.chunk.js",
+    "main.js.map": "/Few1.2-FinalProject/static/js/main.1088c6a0.chunk.js.map",
+    "runtime-main.js": "/Few1.2-FinalProject/static/js/runtime-main.dd69fe6f.js",
+    "runtime-main.js.map": "/Few1.2-FinalProject/static/js/runtime-main.dd69fe6f.js.map",
+    "static/js/2.49be8ded.chunk.js": "/Few1.2-FinalProject/static/js/2.49be8ded.chunk.js",
+    "static/js/2.49be8ded.chunk.js.map": "/Few1.2-FinalProject/static/js/2.49be8ded.chunk.js.map",
+    "static/js/3.2ff689c0.chunk.js": "/Few1.2-FinalProject/static/js/3.2ff689c0.chunk.js",
+    "static/js/3.2ff689c0.chunk.js.map": "/Few1.2-FinalProject/static/js/3.2ff689c0.chunk.js.map",
     "index.html": "/Few1.2-FinalProject/index.html",
-    "static/css/main.fbd53a29.chunk.css.map": "/Few1.2-FinalProject/static/css/main.fbd53a29.chunk.css.map",
-    "static/js/2.be9c80aa.chunk.js.LICENSE.txt": "/Few1.2-FinalProject/static/js/2.be9c80aa.chunk.js.LICENSE.txt",
+    "static/css/main.99102837.chunk.css.map": "/Few1.2-FinalProject/static/css/main.99102837.chunk.css.map",
+    "static/js/2.49be8ded.chunk.js.LICENSE.txt": "/Few1.2-FinalProject/static/js/2.49be8ded.chunk.js.LICENSE.txt",
     "static/media/balloonart.png": "/Few1.2-FinalProject/static/media/balloonart.c8a1edfb.png",
     "static/media/csrichart.PNG": "/Few1.2-FinalProject/static/media/csrichart.fc21d245.PNG",
     "static/media/css.png": "/Few1.2-FinalProject/static/media/css.317be01b.png",
@@ -29,12 +29,13 @@
     "static/media/react.png": "/Few1.2-FinalProject/static/media/react.6c64b9af.png",
     "static/media/swift.png": "/Few1.2-FinalProject/static/media/swift.65463309.png",
     "static/media/tsa3dprinting.PNG": "/Few1.2-FinalProject/static/media/tsa3dprinting.fe10b296.PNG",
+    "static/media/whataboutsecondbreakfast.png": "/Few1.2-FinalProject/static/media/whataboutsecondbreakfast.48244127.png",
     "static/media/wordpress.png": "/Few1.2-FinalProject/static/media/wordpress.f24b4f56.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8bdb00b.js",
-    "static/js/2.be9c80aa.chunk.js",
-    "static/css/main.fbd53a29.chunk.css",
-    "static/js/main.0df969c1.chunk.js"
+    "static/js/runtime-main.dd69fe6f.js",
+    "static/js/2.49be8ded.chunk.js",
+    "static/css/main.99102837.chunk.css",
+    "static/js/main.1088c6a0.chunk.js"
   ]
 }
