@@ -2,7 +2,7 @@ import './Hero.css'
 import React, { useState } from 'react'
 
 function Hero() {
-    const [descriptors, setDescriptors] = useState(["Front-End Developer", "App Developer", "Problem Solver", "Web Developer", "Game Developer"]);
+    const [descriptors] = useState(["Front-End Developer", "App Developer", "Problem Solver", "Web Developer", "Game Developer"]);
     const [counter, setCounter] = useState(0)
 
     React.useEffect(() => {

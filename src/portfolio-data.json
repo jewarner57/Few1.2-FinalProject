@@ -1,5 +1,65 @@
 [
     {
+        "name": "MakeOverflow",
+        "longname": "MakeOverflow",
+        "projectType": "Web App",
+        "link": "https://makeoverflow.herokuapp.com/",
+        "githubrepo": "https://github.com/jewarner57/MakeOverflow",
+        "image": "makeoverflow.png",
+        "imageAlt": "A screenshot of the makeoverflow.com website",
+        "description": "This web app was created as a final project for my WEB 1.1 course. MakeOverflow is a Stack Overflow clone designed specifically for MakeSchool students.",
+        "datePublished": "October, 2020",
+        "technologies": "Flask, Python, HTML, CSS, Javascript"
+    },
+    {
+        "name": "Doughversity",
+        "longname": "Doughversity",
+        "projectType": "Web App",
+        "link": "https://doughversity.herokuapp.com/",
+        "githubrepo": "https://github.com/jewarner57/doughversity",
+        "image": "doughversity.png",
+        "imageAlt": "A screenshot of the doughversity.com website",
+        "description": "This web app was created as a final project for SPD 1.1. The app is currently a prototype so no purchases can actually be made. All of the necessary functionality is in place so that it could otherwise function. Feel free to create an account and mess around. Check out my write up of the website here: rb.gy/ttlkrz",
+        "datePublished": "October, 2020",
+        "technologies": "Flask, Python, HTML, CSS, Javascript"
+    },
+    {
+        "name": "Anonymous Chat",
+        "longname": "NoKnowAnonymous Chat",
+        "projectType": "Web App",
+        "link": "https://www.noknowanonymous.com/",
+        "githubrepo": "https://github.com/jewarner57/anonymouschatapp",
+        "image": "noknow.png",
+        "imageAlt": "A teal message bubble with the word no inside of it.",
+        "description": "This was my first node.js backend. This project aims to be a chat app that saves no data and provides a fully anonymous platform for communication.",
+        "datePublished": "April, 2020",
+        "technologies": "React.js, Node.js"
+    },
+    {
+        "name": "csrichart.com",
+        "longname": "CSRichArt.com",
+        "projectType": "Website",
+        "link": "http://csrichart.com/",
+        "githubrepo": false,
+        "image": "csrichart.PNG",
+        "imageAlt": "A screenshot of the csrichart.com website",
+        "description": "This website is an art portfolio I built using wordpress.",
+        "datePublished": "July, 2018",
+        "technologies": "Wordpress, CSS, HTML"
+    },
+    {
+        "name": "HHSEasy Cal",
+        "longname": "HHSEasy Cal",
+        "projectType": "Web App",
+        "link": "https://hhseasycal.com/",
+        "githubrepo": "https://github.com/jewarner57/hhseasycal",
+        "image": "hhseasycal.PNG",
+        "imageAlt": "A screenshot of the hhseasycal website",
+        "description": "A calendar and block schedule app I designed to help students at my highschool to better navigate an over complicated class block schedule.",
+        "datePublished": "January, 2018",
+        "technologies": "Swift 3"
+    },
+    {
         "name": "Quarticolor",
         "longname": "Quarticolor",
         "projectType": "IOS App",
@@ -8,8 +68,8 @@
         "image": "quarticolorlogo.png",
         "imageAlt": "A red, blue, green, and yellow circle",
         "description": "A fast paced shap sorting game create with spritekit and swift 3. ",
-        "datePublished": "January, 2018",
-        "technologies": "Swift 3"
+        "datePublished": "December, 2018",
+        "technologies": "React.js"
     },
     {
         "name": "Lawn Mower Man Mobile",

@@ -25,9 +25,11 @@ function PortfolioDetail(props) {
                         <p>{description}</p>
                         <div className="detailButtons">
                             <a href={link} target="_blank" rel="noreferrer"><div className="button hoverfill">Live Project Page</div></a>
-                            <a href={githubrepo} target="_blank" rel="noreferrer"><div className="button hoverfill">Github Repo
+                            {githubrepo !== false &&
+                                <a href={githubrepo} target="_blank" rel="noreferrer"><div className="button hoverfill">Github Repo
                                 <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github's logo" className="iconImage" /></div>
-                            </a>
+                                </a>
+                            }
                         </div>
                     </div>
                 </div>
