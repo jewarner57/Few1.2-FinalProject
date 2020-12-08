@@ -22,9 +22,9 @@
 }
 
 #iamList {
-  animation-name: textFade;
+  /* animation-name: textFade;
   animation-duration: 3s;
-  animation-iteration-count: infinite;
+  animation-iteration-count: infinite; */
 }
 
 @keyframes textFade {

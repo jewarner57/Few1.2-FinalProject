@@ -16,7 +16,7 @@ function Hero() {
             <div className="headerImage" id="pageTop">
                 <div className="headerTitle">
                     <h1>Jonathan Warner:</h1>
-                    <h2 id="iamList">{descriptors[counter % descriptors.length]}</h2>
+                    <h2 id="iamList">{descriptors[/*counter % descriptors.length*/0]}</h2>
                 </div>
             </div>
         </div>

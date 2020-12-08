@@ -7,7 +7,7 @@
 
 .portfolioDetailWrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
     width: 90%;
 }
@@ -33,6 +33,7 @@
 }
 
 .button {
+    min-height: 45px;
     padding: 10px;
     text-align: center;
     border-radius: 15px;
@@ -40,16 +41,19 @@
     color: rgb(41, 41, 41);
     border: 2px solid rgb(41, 41, 41);
     text-decoration: none;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 .hoverfill {
-    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+    transition: background-color 300ms ease-in-out, color 300ms ease-in-out;
 }
 .hoverfill:hover {
-    box-shadow: 0 0 41px 41px inset rgb(47, 47, 47);
-    border: none;
+    background-color: rgb(47, 47, 47);
     color: white;
-    padding: 12px;
 }
 
 .detailButtons {
@@ -71,4 +75,10 @@
   .detailInfo {
       max-width: 90%;
   }
+}
+
+.iconImage {
+    max-width: 45px;
+    max-height: 45px;
+    margin-left: 10px;
 }

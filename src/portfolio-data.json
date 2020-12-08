@@ -1,15 +1,15 @@
 [
     {
-        "name": "3d Printing",
-        "longname": "3d Printers and Additive Manufacturing",
-        "projectType": "Website",
-        "link": "http://www.tsa3dprinting.com",
-        "githubrepo": "https://github.com/jewarner57/tsa3dprinting",
-        "image": "tsa3dprinting.PNG",
-        "imageAlt": "A 3d printer printing an orange rocket ship",
-        "description": "This project was created for a middle school technology student association competition on website design and the history of 3d printers",
-        "datePublished": "April, 2014",
-        "technologies": "HTML, CSS, JS"
+        "name": "Quarticolor",
+        "longname": "Quarticolor",
+        "projectType": "IOS App",
+        "link": "https://quarticolor.wordpress.com/",
+        "githubrepo": "https://github.com/jewarner57/Quarticolor",
+        "image": "quarticolorlogo.png",
+        "imageAlt": "A red, blue, green, and yellow circle",
+        "description": "A fast paced shap sorting game create with spritekit and swift 3. ",
+        "datePublished": "January, 2018",
+        "technologies": "Swift 3"
     },
     {
         "name": "Lawn Mower Man Mobile",
@@ -22,5 +22,17 @@
         "description": "Created over winter break from a friends goofy idea, lawn mower man is an idle game where the player mows lawns for money to upgrade their mower. Lawn mower man gained a cult following during it's time on Apple's app store. Unfortunately the app is no longer avaliable.",
         "datePublished": "December, 2017",
         "technologies": "Swift 3"
+    },
+    {
+        "name": "3d Printing",
+        "longname": "3d Printers and Additive Manufacturing",
+        "projectType": "Website",
+        "link": "http://www.tsa3dprinting.com",
+        "githubrepo": "https://github.com/jewarner57/tsa3dprinting",
+        "image": "tsa3dprinting.PNG",
+        "imageAlt": "A 3d printer printing an orange rocket ship",
+        "description": "This project was created for a middle school technology student association competition on website design and the history of 3d printers",
+        "datePublished": "April, 2014",
+        "technologies": "HTML, CSS, JS"
     }
 ]
