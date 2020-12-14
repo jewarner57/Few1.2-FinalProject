@@ -7,7 +7,7 @@
         "githubrepo": "https://github.com/jewarner57/Hobbit-Meal-Planner",
         "image": "whataboutsecondbreakfast.png",
         "imageAlt": "A screenshot of the hobbit meal planner website",
-        "description": "What about second breakfast? With this app you can build your 7 meal feast using a customizeable meal plan creator.",
+        "description": "What about second breakfast? With this web app you can build your 7 meal feast using a customizeable meal plan creator.",
         "datePublished": "December, 2020",
         "technologies": "Flask, Python, HTML, CSS, Bootstrap"
     },
@@ -31,7 +31,7 @@
         "githubrepo": "https://github.com/jewarner57/doughversity",
         "image": "doughversity.png",
         "imageAlt": "A screenshot of the doughversity.com website",
-        "description": "Doughversity was designed as a platform to allow local bakeries to sell their goods online direct to consumers. This app is currently a prototype so no purchases can actually be made. However, all of the necessary functionality is in place so that it otherwise functions. Feel free to create an account and mess around. Check out my write up of the website here: rb.gy/ttlkrz",
+        "description": "Doughversity is a platform to allow local bakeries to sell their goods online direct to consumers. This app is currently a prototype and is still in development. Much of the base functionality, however, is complete. Feel free to create an account and mess around. Check out my write up of the website here: rb.gy/ttlkrz",
         "datePublished": "October, 2020",
         "technologies": "Flask, Python, HTML, CSS, Javascript"
     },
@@ -43,7 +43,7 @@
         "githubrepo": "https://github.com/jewarner57/anonymouschatapp",
         "image": "noknow.png",
         "imageAlt": "A teal message bubble with the word no inside of it.",
-        "description": "This was my first node.js backend. This project aims to be a chat app that saves no data and provides a fully anonymous platform for communication.",
+        "description": "NoKnow provides fully anonymous online communication. No data is saved and usernames are random to establish complete anonymity.",
         "datePublished": "April, 2020",
         "technologies": "React.js, Node.js"
     },
@@ -55,7 +55,7 @@
         "githubrepo": false,
         "image": "csrichart.PNG",
         "imageAlt": "A screenshot of the csrichart.com website",
-        "description": "This website is an art portfolio I built using wordpress.",
+        "description": "CSRichArt is a portfolio website I created for the artist Cheryl Richards. Check out her work!",
         "datePublished": "July, 2018",
         "technologies": "Wordpress, CSS, HTML"
     },
@@ -79,7 +79,7 @@
         "githubrepo": "https://github.com/jewarner57/Quarticolor",
         "image": "quarticolorlogo.png",
         "imageAlt": "A red, blue, green, and yellow circle",
-        "description": "A fast paced shap sorting game create with spritekit and swift 3. ",
+        "description": "Quarticolor is a fast paced color sorting game created with spritekit and swift 3.",
         "datePublished": "December, 2018",
         "technologies": "React.js"
     },
@@ -91,7 +91,7 @@
         "githubrepo": "https://github.com/jewarner57/Lawn-Mower-Man-IOS-",
         "image": "lawnmowermanmobile.png",
         "imageAlt": "A man riding a lawn mower",
-        "description": "Created over winter break from a friends goofy idea, lawn mower man is an idle game where the player mows lawns for money to upgrade their mower. Lawn mower man gained a cult following during it's time on Apple's app store. Unfortunately the app is no longer avaliable.",
+        "description": "Lawn mower man is an idle game where the player mows lawns to earn money. The money can then be used to upgrade their lawn mower. Lawn mower man gained a cult following during it's time on Apple's app store. Unfortunately the app is no longer avaliable.",
         "datePublished": "December, 2017",
         "technologies": "Swift 3"
     },
@@ -103,7 +103,7 @@
         "githubrepo": "https://github.com/jewarner57/tsa3dprinting",
         "image": "tsa3dprinting.PNG",
         "imageAlt": "A 3d printer printing an orange rocket ship",
-        "description": "This project was created for a middle school technology student association competition on website design and the history of 3d printers",
+        "description": "This project was created for a middle school technology student association (TSA) competition on website design and the history of 3d printers.",
         "datePublished": "April, 2014",
         "technologies": "HTML, CSS, JS"
     }
