@@ -5,6 +5,11 @@ import PortfolioList from '../../components/PortfolioList/PortfolioList'
 import SkillList from '../../components/SkillList/SkillList'
 import Navbar from '../../components/Navbar/Navbar'
 
+// google analytics
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-PTJPJPXJ0S');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 function App() {
     return (
         <div className="Home">

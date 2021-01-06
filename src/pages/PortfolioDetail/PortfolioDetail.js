@@ -2,6 +2,11 @@ import './PortfolioDetail.css'
 import portfolioData from "../../portfolio-data.json"
 import Navbar from '../../components/Navbar/Navbar'
 
+// google analytics
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-PTJPJPXJ0S');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 function PortfolioDetail(props) {
     const { id } = props.match.params
     const { longname, projectType, link, image, imageAlt, technologies, description, githubrepo, datePublished
