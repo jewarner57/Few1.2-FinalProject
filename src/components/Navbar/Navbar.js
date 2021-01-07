@@ -61,9 +61,6 @@ class Navbar extends Component {
                     </HashLink>
 
                     <div className={"navItems " + this.state.navbarTextMode}>
-                        <HashLink smooth to="/#pagetop" className="navLink">
-                            <div className="navButton">Home</div>
-                        </HashLink>
                         <HashLink smooth to="/#aboutMeSection" className="navLink">
                             <div className="navButton">About</div>
                         </HashLink>
