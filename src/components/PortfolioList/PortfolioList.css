@@ -14,22 +14,10 @@
   flex-wrap: wrap;
 }
 
-.githubLink {
-  color: black;
-  text-decoration: underline;
 
-  animation-name: linkColorFlash;
-  animation-duration: 10s;
-  animation-iteration-count: infinite;
-}
-
-.githubLinkText {
-  padding-bottom: 20px;
-  font-size: 1.5em;
-  color: black;
-  text-align: center;
-}
-
+/* My page no longer uses this animation */
+/* but im leaving it here incase I ever want to us it agian */
+/* I won't have to type 20 lines of animation */
 @keyframes linkColorFlash {
   0% {
     color: black;

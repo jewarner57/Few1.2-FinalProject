@@ -1,5 +1,29 @@
 [
     {
+        "name": "Image To ASCII",
+        "longname": "Image To ASCII Converter",
+        "projectType": "Web App",
+        "link": "https://imgtoascii.herokuapp.com/",
+        "githubrepo": "https://github.com/jewarner57/image-to-ascii-converter",
+        "image": "imgtoascii.png",
+        "imageAlt": "A screenshot of the image to ascii website",
+        "description": "Image to ascii converters are common on the internet, but many of them lack customization and use confusing, text heavy interfaces. This app aims to provide an easy and highly customizeable ascii to image conversion experience.",
+        "datePublished": "January, 2020",
+        "technologies": "Flask, Python, HTML, CSS, Bootstrap, Javascript"
+    },
+    {
+        "name": "Joust MP",
+        "longname": "Joust Online Multiplayer",
+        "projectType": "Multiplayer Game",
+        "link": "https://joust-multiplayer.herokuapp.com/",
+        "githubrepo": "https://github.com/jewarner57/JoustMp",
+        "image": "joust-mp.png",
+        "imageAlt": "A screenshot of the joust multiplayer website",
+        "description": "A multiplayer remix of the classic arcade game Joust from 1982. The server is written using flask-socketio.",
+        "datePublished": "December, 2020",
+        "technologies": "Flask, Python, Socket IO, HTML, CSS, Javascript"
+    },
+    {
         "name": "Hobbit Meal Planner",
         "longname": "A Hobbit's Meal Planner",
         "projectType": "Web App",
@@ -79,7 +103,7 @@
         "githubrepo": "https://github.com/jewarner57/Quarticolor",
         "image": "quarticolorlogo.png",
         "imageAlt": "A red, blue, green, and yellow circle",
-        "description": "Quarticolor is a fast paced color sorting game created with spritekit and swift 3.",
+        "description": "Quarticolor is a fast paced color sorting game created with spritekit and swift 3. Originally published to Apple's app store in December of 2018 it is, unfortunately, no longer avaliable.",
         "datePublished": "December, 2018",
         "technologies": "React.js"
     },
@@ -91,7 +115,7 @@
         "githubrepo": "https://github.com/jewarner57/Lawn-Mower-Man-IOS-",
         "image": "lawnmowermanmobile.png",
         "imageAlt": "A man riding a lawn mower",
-        "description": "Lawn mower man is an idle game where the player mows lawns to earn money. The money can then be used to upgrade their lawn mower. Lawn mower man gained a cult following during it's time on Apple's app store. Unfortunately the app is no longer avaliable.",
+        "description": "Lawn mower man is an idle game where the player mows lawns to earn money. The money can then be used to upgrade their lawn mower. Lawn mower man gained a cult following during its time on Apple's app store. Unfortunately the app is no longer avaliable.",
         "datePublished": "December, 2017",
         "technologies": "Swift 3"
     },

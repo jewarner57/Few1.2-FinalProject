@@ -12,10 +12,6 @@ class PortfolioList extends Component {
 
                     <h1 className="sectionTitle">My Work</h1>
 
-                    <div className="githubLinkText">
-                        Check out my <a href="https://github.com/jewarner57" className="githubLink" target="_blank" rel="noreferrer">Github</a>
-                    </div>
-
                     <div className="portfolioItemContainer">
 
                         {/* Map through each portfolio item */}
