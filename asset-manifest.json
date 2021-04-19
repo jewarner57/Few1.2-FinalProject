@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.df8c7060.chunk.css",
-    "main.js": "/static/js/main.6c2cf4cb.chunk.js",
-    "main.js.map": "/static/js/main.6c2cf4cb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4c8a079a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4c8a079a.js.map",
-    "static/js/2.75d05944.chunk.js": "/static/js/2.75d05944.chunk.js",
-    "static/js/2.75d05944.chunk.js.map": "/static/js/2.75d05944.chunk.js.map",
-    "static/js/3.7b4b93f9.chunk.js": "/static/js/3.7b4b93f9.chunk.js",
-    "static/js/3.7b4b93f9.chunk.js.map": "/static/js/3.7b4b93f9.chunk.js.map",
+    "main.js": "/static/js/main.6c3ae498.chunk.js",
+    "main.js.map": "/static/js/main.6c3ae498.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe47ed7c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe47ed7c.js.map",
+    "static/js/2.2c6cf0f5.chunk.js": "/static/js/2.2c6cf0f5.chunk.js",
+    "static/js/2.2c6cf0f5.chunk.js.map": "/static/js/2.2c6cf0f5.chunk.js.map",
+    "static/js/3.f019e7ad.chunk.js": "/static/js/3.f019e7ad.chunk.js",
+    "static/js/3.f019e7ad.chunk.js.map": "/static/js/3.f019e7ad.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.df8c7060.chunk.css.map": "/static/css/main.df8c7060.chunk.css.map",
-    "static/js/2.75d05944.chunk.js.LICENSE.txt": "/static/js/2.75d05944.chunk.js.LICENSE.txt",
+    "static/js/2.2c6cf0f5.chunk.js.LICENSE.txt": "/static/js/2.2c6cf0f5.chunk.js.LICENSE.txt",
     "static/media/balloonart.png": "/static/media/balloonart.c8a1edfb.png",
     "static/media/csrichart.PNG": "/static/media/csrichart.fc21d245.PNG",
     "static/media/css.png": "/static/media/css.317be01b.png",
@@ -29,15 +29,16 @@
     "static/media/python.png": "/static/media/python.2e65c2b7.png",
     "static/media/quarticolorlogo.png": "/static/media/quarticolorlogo.af9f449f.png",
     "static/media/react.png": "/static/media/react.6c64b9af.png",
+    "static/media/skillet.png": "/static/media/skillet.8307e442.png",
     "static/media/swift.png": "/static/media/swift.65463309.png",
     "static/media/tsa3dprinting.PNG": "/static/media/tsa3dprinting.fe10b296.PNG",
     "static/media/whataboutsecondbreakfast.png": "/static/media/whataboutsecondbreakfast.48244127.png",
     "static/media/wordpress.png": "/static/media/wordpress.f24b4f56.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c8a079a.js",
-    "static/js/2.75d05944.chunk.js",
+    "static/js/runtime-main.fe47ed7c.js",
+    "static/js/2.2c6cf0f5.chunk.js",
     "static/css/main.df8c7060.chunk.css",
-    "static/js/main.6c2cf4cb.chunk.js"
+    "static/js/main.6c3ae498.chunk.js"
   ]
 }
