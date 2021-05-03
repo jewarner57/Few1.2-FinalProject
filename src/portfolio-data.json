@@ -105,7 +105,7 @@
     "imageAlt": "A screenshot of the hhseasycal website",
     "description": "A calendar and block schedule app I designed to help students at my highschool to better navigate an over complicated class block schedule.",
     "datePublished": "January, 2018",
-    "technologies": "Swift 3"
+    "technologies": "React, Javascript, CSS, Material UI"
   },
   {
     "name": "Quarticolor",
@@ -117,7 +117,7 @@
     "imageAlt": "A red, blue, green, and yellow circle",
     "description": "Quarticolor is a fast paced color sorting game created with spritekit and swift 3. Originally published to Apple's app store in December of 2018 it is, unfortunately, no longer avaliable.",
     "datePublished": "December, 2018",
-    "technologies": "React.js"
+    "technologies": "Swift 3"
   },
   {
     "name": "Lawn Mower Man Mobile",
