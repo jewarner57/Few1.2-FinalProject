@@ -7,7 +7,7 @@
     "githubrepo": "https://github.com/jewarner57/ImageEditor-React",
     "image": "image-editor.png",
     "imageAlt": "A screenshot of the image editor app",
-    "description": "A simple, compact image editor built with React.js. Make a meme and test it out :)",
+    "description": "A simple, compact image editor built with React.js. Take it for a spin and make a meme with it. :)",
     "datePublished": "July, 2021",
     "technologies": "React.js"
   },
@@ -19,7 +19,7 @@
     "githubrepo": "https://github.com/franklin-phan/chops",
     "image": "jamsession.png",
     "imageAlt": "A screenshot of the JamSession homepage",
-    "description": "Networking for music creators. Build your network, collab with others, and show off your music.",
+    "description": "Networking for music creators. Build your network, collab with others, and show off your music. On this project, I worked with 2 other developers. My role was to help design and build the front end, but I did not work with firebase on this application.",
     "datePublished": "March, 2021",
     "technologies": "React.js, Firebase"
   },
