@@ -1,15 +1,27 @@
 [
   {
-    "name": "Skillet",
-    "longname": "A recipe saver and cooking tracker",
+    "name": "Image Editor",
+    "longname": "React Image Editor",
     "projectType": "Web App",
-    "link": "https://share-your-skillet.herokuapp.com/",
-    "githubrepo": "https://github.com/jewarner57/Skillet",
-    "image": "skillet.png",
-    "imageAlt": "A screenshot of the skillet website",
-    "description": "When I first learned to cook, I used a spreadsheet to track my recipes, the dishes I had learned, and my overall progress. This app allows others to do the same with a convenient, minimalist user interface.",
+    "link": "https://jewarner57.github.io/ImageEditor-React/",
+    "githubrepo": "https://github.com/jewarner57/ImageEditor-React",
+    "image": "image-editor.png",
+    "imageAlt": "A screenshot of the image editor app",
+    "description": "A simple, compact image editor built with React.js. Make a meme and test it out :)",
+    "datePublished": "July, 2021",
+    "technologies": "React.js"
+  },
+  {
+    "name": "Jam Session",
+    "longname": "Jam Session",
+    "projectType": "Web App",
+    "link": "https://www.jamsession.studio",
+    "githubrepo": "https://github.com/franklin-phan/chops",
+    "image": "jamsession.png",
+    "imageAlt": "A screenshot of the JamSession homepage",
+    "description": "Networking for music creators. Build your network, collab with others, and show off your music.",
     "datePublished": "March, 2021",
-    "technologies": "Flask, Python, HTML, CSS, Bootstrap, Javascript, SQL"
+    "technologies": "React.js, Firebase"
   },
   {
     "name": "Image To ASCII",
@@ -36,16 +48,16 @@
     "technologies": "Flask, Python, Socket IO, HTML, CSS, Javascript"
   },
   {
-    "name": "Hobbit Meal Planner",
-    "longname": "A Hobbit's Meal Planner",
+    "name": "HHSEasy Cal",
+    "longname": "HHSEasy Cal",
     "projectType": "Web App",
-    "link": "https://whataboutsecondbreakfast.herokuapp.com/",
-    "githubrepo": "https://github.com/jewarner57/Hobbit-Meal-Planner",
-    "image": "whataboutsecondbreakfast.png",
-    "imageAlt": "A screenshot of the hobbit meal planner website",
-    "description": "What about second breakfast? With this web app you can build your 7 meal feast using a customizeable meal plan creator.",
-    "datePublished": "December, 2020",
-    "technologies": "Flask, Python, HTML, CSS, Bootstrap"
+    "link": "https://hhseasycal.com/",
+    "githubrepo": "https://github.com/jewarner57/hhseasycal",
+    "image": "hhseasycal.PNG",
+    "imageAlt": "A screenshot of the hhseasycal website",
+    "description": "A calendar and block schedule app I designed to help students at my highschool to better navigate an over complicated class block schedule.",
+    "datePublished": "January, 2018",
+    "technologies": "React, Javascript, CSS, Material UI"
   },
   {
     "name": "MakeOverflow",
@@ -58,6 +70,18 @@
     "description": "MakeOverflow is a Stack Overflow clone designed specifically for MakeSchool students.",
     "datePublished": "October, 2020",
     "technologies": "Flask, Python, HTML, CSS, Bootstrap, Javascript"
+  },
+  {
+    "name": "Skillet",
+    "longname": "A recipe saver and cooking tracker",
+    "projectType": "Web App",
+    "link": "https://share-your-skillet.herokuapp.com/",
+    "githubrepo": "https://github.com/jewarner57/Skillet",
+    "image": "skillet.png",
+    "imageAlt": "A screenshot of the skillet website",
+    "description": "When I first learned to cook, I used a spreadsheet to track my recipes, the dishes I had learned, and my overall progress. This app allows others to do the same with a convenient, minimalist user interface.",
+    "datePublished": "March, 2021",
+    "technologies": "Flask, Python, HTML, CSS, Bootstrap, Javascript, SQL"
   },
   {
     "name": "Doughversity",
@@ -84,6 +108,18 @@
     "technologies": "React.js, Node.js"
   },
   {
+    "name": "Hobbit Meal Planner",
+    "longname": "A Hobbit's Meal Planner",
+    "projectType": "Web App",
+    "link": "https://whataboutsecondbreakfast.herokuapp.com/",
+    "githubrepo": "https://github.com/jewarner57/Hobbit-Meal-Planner",
+    "image": "whataboutsecondbreakfast.png",
+    "imageAlt": "A screenshot of the hobbit meal planner website",
+    "description": "What about second breakfast? With this web app you can build your 7 meal feast using a customizeable meal plan creator.",
+    "datePublished": "December, 2020",
+    "technologies": "Flask, Python, HTML, CSS, Bootstrap"
+  },
+  {
     "name": "csrichart.com",
     "longname": "CSRichArt.com",
     "projectType": "Website",
@@ -94,18 +130,6 @@
     "description": "CSRichArt is a portfolio website I created for the artist Cheryl Richards. Check out her work!",
     "datePublished": "July, 2018",
     "technologies": "Wordpress, CSS, HTML"
-  },
-  {
-    "name": "HHSEasy Cal",
-    "longname": "HHSEasy Cal",
-    "projectType": "Web App",
-    "link": "https://hhseasycal.com/",
-    "githubrepo": "https://github.com/jewarner57/hhseasycal",
-    "image": "hhseasycal.PNG",
-    "imageAlt": "A screenshot of the hhseasycal website",
-    "description": "A calendar and block schedule app I designed to help students at my highschool to better navigate an over complicated class block schedule.",
-    "datePublished": "January, 2018",
-    "technologies": "React, Javascript, CSS, Material UI"
   },
   {
     "name": "Quarticolor",
