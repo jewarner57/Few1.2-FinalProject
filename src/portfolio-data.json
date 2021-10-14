@@ -27,7 +27,7 @@
     "name": "Image To ASCII",
     "longname": "Image To ASCII Converter",
     "projectType": "Web App",
-    "link": "https://imgtoascii.herokuapp.com/",
+    "link": "http://image-to-ascii.dev.jonathanewarner.com/",
     "githubrepo": "https://github.com/jewarner57/image-to-ascii-converter",
     "image": "imgtoascii.png",
     "imageAlt": "A screenshot of the image to ascii website",
