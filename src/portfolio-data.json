@@ -1,5 +1,29 @@
 [
   {
+    "name": "Inmige",
+    "longname": "Inmige",
+    "projectType": "Web App",
+    "link": "https://jewarner57.github.io/inmige/",
+    "githubrepo": "https://github.com/jewarner57/inmige",
+    "image": "inmige.png",
+    "imageAlt": "A screenshot of the inmige app",
+    "description": "Inmige is a decentralized image hosting and sharing service. Taking inspiration from imgur, the platform provides frictionless image and video sharing using the IPFS protocol to save media on a decentralized network. Post a meme and share it with the world!",
+    "datePublished": "Jan, 2022",
+    "technologies": "React.js, Node.js, MongoDB, IPFS"
+  },
+  {
+    "name": "Social Prescribing",
+    "longname": "Social Prescribing USA",
+    "projectType": "Web App",
+    "link": "https://app.socialprescribingusa.com/#/",
+    "githubrepo": false,
+    "image": "socialprescribing.png",
+    "imageAlt": "A screenshot of the social prescribing app",
+    "description": "I had the priviledge to be the frontend lead for the social prescribing USA development team during fall of 2021. My contributions to the project included implementing user authentication with firebase as well as building out the project's prescription search client (pictured).",
+    "datePublished": "Jan, 2022",
+    "technologies": "React.js"
+  },
+  {
     "name": "Image Editor",
     "longname": "React Image Editor",
     "projectType": "Web App",
@@ -7,7 +31,7 @@
     "githubrepo": "https://github.com/jewarner57/ImageEditor-React",
     "image": "image-editor.png",
     "imageAlt": "A screenshot of the image editor app",
-    "description": "A simple, compact image editor built with React.js. Take it for a spin and make a meme with it. :)",
+    "description": "Acompact and easy to use image editor built with React.js. Take it for a spin and make a meme with it. :)",
     "datePublished": "July, 2021",
     "technologies": "React.js"
   },
