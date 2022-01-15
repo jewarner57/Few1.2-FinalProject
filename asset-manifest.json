@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.df8c7060.chunk.css",
-    "main.js": "/static/js/main.7fcfde50.chunk.js",
-    "main.js.map": "/static/js/main.7fcfde50.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.abe22ec8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.abe22ec8.js.map",
-    "static/js/2.cd82819a.chunk.js": "/static/js/2.cd82819a.chunk.js",
-    "static/js/2.cd82819a.chunk.js.map": "/static/js/2.cd82819a.chunk.js.map",
-    "static/js/3.baee39b3.chunk.js": "/static/js/3.baee39b3.chunk.js",
-    "static/js/3.baee39b3.chunk.js.map": "/static/js/3.baee39b3.chunk.js.map",
+    "main.js": "/static/js/main.be301adb.chunk.js",
+    "main.js.map": "/static/js/main.be301adb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa699e6d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa699e6d.js.map",
+    "static/js/2.0203d502.chunk.js": "/static/js/2.0203d502.chunk.js",
+    "static/js/2.0203d502.chunk.js.map": "/static/js/2.0203d502.chunk.js.map",
+    "static/js/3.1d8f4d11.chunk.js": "/static/js/3.1d8f4d11.chunk.js",
+    "static/js/3.1d8f4d11.chunk.js.map": "/static/js/3.1d8f4d11.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.df8c7060.chunk.css.map": "/static/css/main.df8c7060.chunk.css.map",
-    "static/js/2.cd82819a.chunk.js.LICENSE.txt": "/static/js/2.cd82819a.chunk.js.LICENSE.txt",
+    "static/js/2.0203d502.chunk.js.LICENSE.txt": "/static/js/2.0203d502.chunk.js.LICENSE.txt",
     "static/media/balloonart.png": "/static/media/balloonart.c8a1edfb.png",
     "static/media/csrichart.PNG": "/static/media/csrichart.fc21d245.PNG",
     "static/media/css.png": "/static/media/css.317be01b.png",
@@ -21,6 +21,7 @@
     "static/media/hhseasycal.PNG": "/static/media/hhseasycal.4fc6d173.PNG",
     "static/media/image-editor.png": "/static/media/image-editor.801e1dc1.png",
     "static/media/imgtoascii.png": "/static/media/imgtoascii.d62c3653.png",
+    "static/media/inmige.png": "/static/media/inmige.99a6e8e3.png",
     "static/media/jamsession.png": "/static/media/jamsession.6e4789ab.png",
     "static/media/java.png": "/static/media/java.dd4bee93.png",
     "static/media/javascript.png": "/static/media/javascript.cb937c81.png",
@@ -32,15 +33,16 @@
     "static/media/quarticolorlogo.png": "/static/media/quarticolorlogo.af9f449f.png",
     "static/media/react.png": "/static/media/react.6c64b9af.png",
     "static/media/skillet.png": "/static/media/skillet.8307e442.png",
+    "static/media/socialprescribing.png": "/static/media/socialprescribing.f0f77ea4.png",
     "static/media/swift.png": "/static/media/swift.65463309.png",
     "static/media/tsa3dprinting.PNG": "/static/media/tsa3dprinting.fe10b296.PNG",
     "static/media/whataboutsecondbreakfast.png": "/static/media/whataboutsecondbreakfast.48244127.png",
     "static/media/wordpress.png": "/static/media/wordpress.f24b4f56.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.abe22ec8.js",
-    "static/js/2.cd82819a.chunk.js",
+    "static/js/runtime-main.aa699e6d.js",
+    "static/js/2.0203d502.chunk.js",
     "static/css/main.df8c7060.chunk.css",
-    "static/js/main.7fcfde50.chunk.js"
+    "static/js/main.be301adb.chunk.js"
   ]
 }
