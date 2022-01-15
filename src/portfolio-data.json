@@ -19,7 +19,7 @@
     "githubrepo": false,
     "image": "socialprescribing.png",
     "imageAlt": "A screenshot of the social prescribing app",
-    "description": "I had the priviledge to be the frontend lead for the social prescribing USA development team during fall of 2021. My contributions to the project included implementing user authentication with firebase as well as building out the project's prescription search client (pictured).",
+    "description": "I had the privilege to be the frontend lead for the social prescribing USA development team during fall of 2021. My contributions to the project included implementing user authentication with firebase, and building out the project's prescription search client (pictured).",
     "datePublished": "Jan, 2022",
     "technologies": "React.js"
   },

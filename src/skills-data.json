@@ -1,57 +1,57 @@
 [
-    {
-        "name": "HTML5",
-        "image": "html5.png",
-        "imageAlt": "The HTML5 Logo"
-    },
-    {
-        "name": "CSS",
-        "image": "css.png",
-        "imageAlt": "The CSS Logo"
-    },
-    {
-        "name": "Javascript",
-        "image": "javascript.png",
-        "imageAlt": "The Javascript Logo"
-    },
-    {
-        "name": "Flask",
-        "image": "flask.png",
-        "imageAlt": "The Flask Logo"
-    },
-    {
-        "name": "React",
-        "image": "react.png",
-        "iamgeAlt": "The React Logo"
-    },
-    {
-        "name": "Node.js",
-        "image": "node.png",
-        "iamgeAlt": "The Node.js Logo"
-    },
-    {
-        "name": "jQuery",
-        "image": "jquery.png",
-        "iamgeAlt": "The jQuery Logo"
-    },
-    {
-        "name": "Swift",
-        "image": "swift.png",
-        "iamgeAlt": "The Swift Logo"
-    },
-    {
-        "name": "Java",
-        "image": "java.png",
-        "iamgeAlt": "The Java Logo"
-    },
-    {
-        "name": "Wordpress",
-        "image": "wordpress.png",
-        "iamgeAlt": "The Wordpress Logo"
-    },
-    {
-        "name": "Python",
-        "image": "python.png",
-        "iamgeAlt": "The Python Logo"
-    }
+  {
+    "name": "HTML5",
+    "image": "html5.png",
+    "imageAlt": "The HTML5 Logo"
+  },
+  {
+    "name": "CSS",
+    "image": "css.png",
+    "imageAlt": "The CSS Logo"
+  },
+  {
+    "name": "Javascript",
+    "image": "javascript.png",
+    "imageAlt": "The Javascript Logo"
+  },
+  {
+    "name": "React",
+    "image": "react.png",
+    "iamgeAlt": "The React Logo"
+  },
+  {
+    "name": "Node.js",
+    "image": "node.png",
+    "iamgeAlt": "The Node.js Logo"
+  },
+  {
+    "name": "Flask",
+    "image": "flask.png",
+    "imageAlt": "The Flask Logo"
+  },
+  {
+    "name": "Python",
+    "image": "python.png",
+    "iamgeAlt": "The Python Logo"
+  },
+  {
+    "name": "jQuery",
+    "image": "jquery.png",
+    "iamgeAlt": "The jQuery Logo"
+  },
+  {
+    "name": "Swift",
+    "image": "swift.png",
+    "iamgeAlt": "The Swift Logo"
+  },
+  {
+    "name": "Java",
+    "image": "java.png",
+    "iamgeAlt": "The Java Logo"
+  },
+  {
+    "name": "Wordpress",
+    "image": "wordpress.png",
+    "iamgeAlt": "The Wordpress Logo"
+  }
 ]
