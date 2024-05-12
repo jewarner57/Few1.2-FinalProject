@@ -20,7 +20,8 @@ class Navbar extends Component {
         this.state = ({
             navbarMode: navbarMode,
             navbarTextMode: navbarTextMode,
-            changeOnScroll: changeOnScroll
+            changeOnScroll: changeOnScroll,
+            windowSize: window.innerWidth
         });
     }
 
@@ -41,12 +42,18 @@ class Navbar extends Component {
             this.setState({ navbarMode: navbarMode, navbarTextMode: navbarTextMode })
     }
 
+    listenResizeEvent = () => {
+      this.setState({ windowSize: window.innerWidth })
+    }
+
     componentDidMount() {
         window.addEventListener('scroll', this.listenScrollEvent)
+        window.addEventListener('resize', this.listenResizeEvent);
     }
 
     componentWillUnmount() {
         window.removeEventListener('scroll', this.listenScrollEvent)
+        window.removeEventListener('resize', this.listenResizeEvent);
     }
 
     render() {
@@ -57,7 +64,7 @@ class Navbar extends Component {
                 <div className={"navbar " + this.state.navbarMode}></div>
                 <div className="navbarContainer">
                     <HashLink smooth to="/#pagetop" className="navLink">
-                        <div className={"navTitle " + this.state.navbarTextMode}>Jonathan Warner</div>
+                <div className={"navTitle " + this.state.navbarTextMode}>{this.state.windowSize > 450 ? 'Jonathan Warner' : 'JW'}</div>
                     </HashLink>
 
                     <div className={"navItems " + this.state.navbarTextMode}>

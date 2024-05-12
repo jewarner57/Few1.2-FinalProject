@@ -10,7 +10,7 @@
 }
 
 .aboutMeDesc {
-  width: 500px;
+  max-width: 500px;
 }
 
 .aboutMeDesc > p > a {
@@ -24,7 +24,7 @@
 
 /* social links */
 .social-links {
-    width: 500px;
+    max-width: 500px;
 }
 
 ul {

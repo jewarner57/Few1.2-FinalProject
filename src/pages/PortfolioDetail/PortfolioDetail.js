@@ -25,7 +25,7 @@ function PortfolioDetail(props) {
                         <hr />
                         <p>Project Type: {projectType}</p>
                         <p>Technologies Used: {technologies}</p>
-                        <p>Data Published: {datePublished}</p>
+                        <p>Date Published: {datePublished}</p>
                         <hr />
                         <p>{description}</p>
                         <div className="detailButtons">
